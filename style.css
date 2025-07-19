@@ -325,8 +325,6 @@ footer {
   font-size: 1.8rem;
   color: red;
   font-weight: 500;
-  animation: floatText 2.5s ease-in-out infinite alternate;
-  line-height: 1.6;
 }
 
 .third-section {
