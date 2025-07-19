@@ -76,6 +76,9 @@ header {
   100% { transform: translateY(0); }
 }
 
+.animated-title {
+  font-size:2rem;
+}
 
 .subtitle {
   font-size: 1.3rem;
