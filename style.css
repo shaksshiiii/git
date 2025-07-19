@@ -41,7 +41,7 @@ body {
 /* Header */
 header {
   text-align: center;
-  padding: 1rem;
+  padding: 10px;
   z-index: 1;
   position: relative;
 }
@@ -60,6 +60,7 @@ header {
   display: inline-block;
   animation: floatLetter 2.5s ease-in-out infinite;
   margin: 0 2px;
+  font-size:2.5rem;
 }
 
 .animated-title span:nth-child(odd) {
@@ -76,9 +77,7 @@ header {
   100% { transform: translateY(0); }
 }
 
-.animated-title {
-  font-size:2rem;
-}
+
 
 .subtitle {
   font-size: 1.3rem;
