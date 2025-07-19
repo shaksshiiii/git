@@ -41,7 +41,7 @@ body {
 /* Header */
 header {
   text-align: center;
-  padding: 3rem 1rem 1rem;
+  padding: 1rem;
   z-index: 1;
   position: relative;
 }
