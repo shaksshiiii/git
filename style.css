@@ -323,7 +323,7 @@ footer {
   margin-top: 25px;
   font-family: 'Dancing Script', cursive;
   font-size: 1.8rem;
-  color: #ff6f91;
+  color: red;
   font-weight: 500;
   animation: floatText 2.5s ease-in-out infinite alternate;
   line-height: 1.6;
