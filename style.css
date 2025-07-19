@@ -319,6 +319,14 @@ footer {
   /* box-shadow: 0 10px 25px rgba(255, 182, 193, 0.5); */
   padding: 10px;  
 }
+.memory-gallery p{
+  margin-top: 25px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 1.8rem;
+  color: #f4edf1;
+  animation: floatText 2.5s ease-in-out infinite alternate;
+  line-height: 1.6;
+}
 
 .third-section {
   background: linear-gradient(to top left, #d3608e, #da4d5e);
